@@ -1,0 +1,2 @@
+# AgenaTrader
+Alles ueber Agenascript
